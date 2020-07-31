@@ -1,0 +1,218 @@
+body a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    position: top;
+    position: top-fixed;
+    background-color: rgba(128, 128, 128, 0.308);
+    width: 100%;
+    height: 200px;
+}
+.topLinks{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.left_links{
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    
+}
+.left_links a{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    color: black;
+    margin: 2%;
+}
+
+.right_links{
+    margin-top: 1%;
+    display: flex;
+    margin-left: 10%;
+    flex-direction: row;
+    width: 40%;
+    
+}
+.right_links a{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    color: black;
+    margin: 2%;
+}
+
+.topLinks #a1{
+    color: rgba(0, 0, 0, 0.479);
+}
+#cornelius{
+    height: 20px;
+    background-color: rgba(128, 128, 128, 0.068);
+    border: none;
+}
+.all_acc{
+    color: green;
+}
+.select1{
+    color: green;
+    background-color: rgba(128, 128, 128, 0.068);
+    border: none;
+}
+.row2{
+    margin-top: 2%;
+    margin-left: 4%;
+}
+.row2 td{
+    margin-left: 10px;
+}
+/*  */
+.badges{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    margin-left: 11%;
+}
+#green{
+    background-color: green;
+}
+#brown{
+    background-color: brown;
+}
+#yellow{
+    background-color: yellow;
+}
+.circle{
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+.badges p{
+    margin-left: 10px;
+    padding: 5px;
+}
+#all{
+    height: 20px;
+    width: 50px;
+    padding: 5px;
+    background-color: lightgray;
+}
+.badges span{
+    font-size: 10px;
+    color: black;
+    margin-left: 5px;
+}
+.badges input{
+    height: 30px;
+    border-radius: 5px;
+    width: 80px;
+    border: 1px  solid grey;
+    margin-top: 20px;
+    margin-left: 60%;
+    float: right;
+}
+
+
+
+/*  */
+.todayList h6{
+    color: rgba(128, 128, 128, 0.692);
+    margin-left: 10%;
+}
+.todayList table{
+    margin-left: 11%;
+    background-color: rgba(128, 128, 128, 0.308);
+    width: 89%;
+    height: 65px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.todayList select{
+    background-color: rgba(128, 128, 128, 0.068);
+    border: none;
+}
+.tableListWidth{
+    width: 16%;
+}
+
+.tableData1{
+    width: 50%;
+}
+.expenses{
+    color: red;
+}
+.income{
+    color: green;
+}
+.incomeBtn{
+    color: rgb(35, 184, 189);
+    background-color: rgba(35, 184, 189, 0.438);
+    border: none;
+    border-radius: 4px;
+}
+.expensesBtn{
+    color: rgb(189, 35, 35);
+    background-color: rgba(189, 35, 35, 0.589);
+    border: none;
+    border-radius: 4px;
+}
+.subscribeBtn{
+    background-color: rgba(39, 179, 97, 0.781);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width: 70%;
+    height: 29px;
+}
+/* 28 may */
+.may28 h6{
+    color: rgba(128, 128, 128, 0.692);
+    margin-left: 10%;
+}
+
+/* flex */
+.may28BG{
+    margin-left: 11%;
+    background-color: rgba(128, 128, 128, 0.308);
+    width: 89%;
+    height: 75px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.flexRows{
+    display: flex;
+    flex-direction: row; 
+    
+}
+.flexRowsP1{
+    display: flex;
+    width: 50%;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    height: 50%;
+}
+.flexRowsP2{
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    width: 16%;
+    
+    
+    
+}
+.flexRowP3{
+    color: grey; font-size: 12px; 
+    margin-bottom: 10px;
+    margin-left: 5px;
+    
+    
+}
+.may28 select{
+    background-color: rgba(128, 128, 128, 0.068);
+    border: none;
+}
+
+
