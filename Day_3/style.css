@@ -1,0 +1,33 @@
+/* Home */
+.homeNav{
+    height: 100px;
+    background-image: url("https://daks2k3a4ib2z.cloudfront.net/56e6e031f1ee49764ddf3778/56fd9c948a8dafc564110770_header.png");
+}
+.homeNav div{
+    font-size: 250%;
+    margin-top: 15px;
+    padding: 10px;
+}
+.homeNav a{
+    color: wheat;
+    text-align: justify;
+    text-decoration: none;
+    font-weight: 900;
+}
+.homeNav a:hover{
+    color: orange;
+}
+.homeDetails{
+    /* border: 1px solid black; */
+}
+.homeDetails div{
+    border: 1px solid rgba(0, 0, 0, 0.171);
+}
+.homeDetails input{
+    width: 100%;
+    height: 250%;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: solid grey;
+    background-color: rgba(128, 128, 128, 0.205);
+}
