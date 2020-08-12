@@ -22,7 +22,7 @@ function loginCred(password, username) {
           auth(token, username);
           console.log(response)
           alert("Login Successful")
-          window.location.href = "flipkart.html"
+          window.location.href = "home.html"
         }
       };
     } else {
